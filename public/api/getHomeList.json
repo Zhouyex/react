@@ -1,0 +1,35 @@
+{
+  "data":{
+    "topicList":[
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_3?v=1552557703_1560932666", "txt":"青竹"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_4?v=1552557703_1560932666", "txt":"良品"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_5?v=1552557703_1560932666", "txt":"设计"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_6?v=1552557703_1560932666", "txt":"生活"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_7?v=1552557703_1560932666", "txt":"品质"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_3?v=1552557703_1560932666", "txt":"青竹"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_4?v=1552557703_1560932666", "txt":"良品"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_5?v=1552557703_1560932666", "txt":"设计"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_6?v=1552557703_1560932666", "txt":"生活"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_7?v=1552557703_1560932666", "txt":"品质"}
+    ],
+    "list":[
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_3?v=1552557703_1560932666","title":"天草陶石咖啡杯套装","desc":"使用了粉碎高品质的天草陶石后提炼而成的土，制作了泛着淡青色的白瓷。用餐时可以记住食品名称、体会新鲜口味···可对颜色和口味、气味、口感逐个品味，从中感受用餐的乐趣，同时还可自然而然地了解日本饮食文化"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_4?v=1552557703_1560932666","title":"天草陶石咖啡杯套装","desc":"使用了粉碎高品质的天草陶石后提炼而成的土，制作了泛着淡青色的白瓷。用餐时可以记住食品名称、体会新鲜口味···可对颜色和口味、气味、口感逐个品味，从中感受用餐的乐趣，同时还可自然而然地了解日本饮食文化"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_5?v=1552557703_1560932666","title":"天草陶石咖啡杯套装","desc":"使用了粉碎高品质的天草陶石后提炼而成的土，制作了泛着淡青色的白瓷。用餐时可以记住食品名称、体会新鲜口味···可对颜色和口味、气味、口感逐个品味，从中感受用餐的乐趣，同时还可自然而然地了解日本饮食文化"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_6?v=1552557703_1560932666","title":"天草陶石咖啡杯套装","desc":"使用了粉碎高品质的天草陶石后提炼而成的土，制作了泛着淡青色的白瓷。用餐时可以记住食品名称、体会新鲜口味···可对颜色和口味、气味、口感逐个品味，从中感受用餐的乐趣，同时还可自然而然地了解日本饮食文化"},
+      {"imgUrl":"//asset.ibanquan.com/s/30611/586/index_global1_pic_7?v=1552557703_1560932666","title":"天草陶石咖啡杯套装","desc":"使用了粉碎高品质的天草陶石后提炼而成的土，制作了泛着淡青色的白瓷。用餐时可以记住食品名称、体会新鲜口味···可对颜色和口味、气味、口感逐个品味，从中感受用餐的乐趣，同时还可自然而然地了解日本饮食文化"}
+    ],
+    "fineList":[
+      {"listTxt":"9款高颜值饭盒推荐"},
+      {"listTxt":"养成7种整理习惯"},
+      {"listTxt":"年度盘点，最惊人的事情"},
+      {"listTxt":"东方汽车，带你遇见不一样"},
+      {"listTxt":"Web前端，正面刚！"}
+    ],
+    "article":[
+      {"content":"MVC模式体现了“关注点分离”这一设计原则，将一个人机交互应用涉及到的功能分为三部分，Model对应应用状态和业务功能的封装，可以将它理解为同时包含数据和行为的领域模型，Model接受Controller的请求并完成相应的业务处理，在应用状态改变的时候可以向View发出通知。View实现可视化界面的呈现和用户的交互操作，VIew层可以直接调用Model查询状态，Model也可以在自己状态发生变化的时候主动通知VIew。Controller是Model和View之间的连接器，用于控制应用程序的流程。View捕获用户交互操作后直接发送给Controller，完成相应的UI逻辑，如果涉及业务功能调用Controller会调用Model，修改Model状态。Controller也可以主动控制原View或者创建新的View对用户交互予以响应。"},
+      {"content":"MVC模式体现了“关注点分离”这一设计原则，将一个人机交互应用涉及到的功能分为三部分，Model对应应用状态和业务功能的封装，可以将它理解为同时包含数据和行为的领域模型，Model接受Controller的请求并完成相应的业务处理，在应用状态改变的时候可以向View发出通知。View实现可视化界面的呈现和用户的交互操作，VIew层可以直接调用Model查询状态，Model也可以在自己状态发生变化的时候主动通知VIew。Controller是Model和View之间的连接器，用于控制应用程序的流程。View捕获用户交互操作后直接发送给Controller，完成相应的UI逻辑，如果涉及业务功能调用Controller会调用Model，修改Model状态。Controller也可以主动控制原View或者创建新的View对用户交互予以响应。"},
+      {"content":"MVC模式体现了“关注点分离”这一设计原则，将一个人机交互应用涉及到的功能分为三部分，Model对应应用状态和业务功能的封装，可以将它理解为同时包含数据和行为的领域模型，Model接受Controller的请求并完成相应的业务处理，在应用状态改变的时候可以向View发出通知。View实现可视化界面的呈现和用户的交互操作，VIew层可以直接调用Model查询状态，Model也可以在自己状态发生变化的时候主动通知VIew。Controller是Model和View之间的连接器，用于控制应用程序的流程。View捕获用户交互操作后直接发送给Controller，完成相应的UI逻辑，如果涉及业务功能调用Controller会调用Model，修改Model状态。Controller也可以主动控制原View或者创建新的View对用户交互予以响应。"}
+    ]
+  }
+}
